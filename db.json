@@ -1,0 +1,52 @@
+{
+    "books": {
+        "9781982158507": {
+            "title": "Girls can kiss now : essays",
+            "author": "Jill Gutowitz",
+            "isbn": "9781982158507",
+            "tags": [
+                "nonfiction",
+                "essays",
+                "queer"
+            ],
+            "ratings": {
+                "97348058651578368": 10
+            },
+            "completions": [
+                97348058651578368
+            ]
+        },
+        "9780593336823": {
+            "title": "The Love Hypothesis",
+            "author": "Ali Hazelwood",
+            "isbn": "9780593336823",
+            "tags": [
+                "fake dating",
+                " tall dark and brooding meets cute and quirky",
+                " science but it's cute",
+                " misogyny",
+                " the shutting down of misogyny",
+                " there's like chemistry in there but wtf is chemistry so",
+                " m/f"
+            ],
+            "ratings": {
+                "874735057481388122": 7
+            },
+            "completions": [
+                874735057481388122
+            ]
+        },
+        "9780425120248": {
+            "title": "scarlet letter",
+            "author": "Nathaniel Hawthrone",
+            "isbn": "9780425120248",
+            "tags": [],
+            "ratings": {
+                "695037711081537577": 4
+            },
+            "completions": [
+                695037711081537577
+            ]
+        }
+    }
+}
